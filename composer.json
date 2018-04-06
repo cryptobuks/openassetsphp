@@ -1,0 +1,5 @@
+{
+    "require": {
+        "youkchan/openassetsphp": "^0.0.17"
+    }
+}
